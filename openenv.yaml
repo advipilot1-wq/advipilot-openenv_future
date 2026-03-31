@@ -1,0 +1,13 @@
+name: advipilot-env
+
+actions:
+  - study
+  - revise
+  - skip
+
+observations:
+  - goal
+  - days_left
+  - preparedness
+  - focus
+  - consistency
